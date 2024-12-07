@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Великі відкриття українців</title>
+</head>
+<body>
+    <header>
+        <h1>Гвинтокрил Ігоря Сікорського</h1>
+    </header>
+    <main>
+        <section>
+            <h2>Ігор Сікорський</h2>
+            <img src="sikorsky.jpg" alt="Ігор Сікорський" width="300">
+            <p>Ігор Сікорський — видатний авіаконструктор, який створив перший у світі гвинтокрил.</p>
+        </section>
+        <section>
+            <h2>Опис винаходу</h2>
+            <p>Гвинтокрил став революцією в авіації, дозволяючи вертикальний зліт і посадку, що зробило його незамінним у багатьох галузях.</p>
+        </section>
+        <section>
+            <h2>Вплив на світ</h2>
+            <p>Використовується у рятувальних операціях, медичних перевезеннях, військовій справі та туризмі.</p>
+        </section>
+    </main>
+    <footer>
+        <p>Джерела: <a href="https://example.com" target="_blank">Детальніше</a></p>
+    </footer>
+</body>
+</html>
